@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.d4a81e99.css",
-    "main.js": "/portfolio/static/js/main.21b5a3a6.js",
-    "static/media/cinemate.png": "/portfolio/static/media/cinemate.4a589d0cd81aad7ac666.png",
-    "static/media/Recipe.png": "/portfolio/static/media/Recipe.c6b5105b0396bc849ee7.png",
-    "static/media/pic.jpg": "/portfolio/static/media/pic.353377bbe4a2d131dd34.jpg",
-    "index.html": "/portfolio/index.html",
-    "static/media/resume.txt": "/portfolio/static/media/resume.31d6cfe0d16ae931b73c.txt",
-    "main.d4a81e99.css.map": "/portfolio/static/css/main.d4a81e99.css.map",
-    "main.21b5a3a6.js.map": "/portfolio/static/js/main.21b5a3a6.js.map"
+    "main.css": "/static/css/main.d4a81e99.css",
+    "main.js": "/static/js/main.76196bee.js",
+    "static/media/cinemate.png": "/static/media/cinemate.4a589d0cd81aad7ac666.png",
+    "static/media/Recipe.png": "/static/media/Recipe.c6b5105b0396bc849ee7.png",
+    "static/media/pic.jpg": "/static/media/pic.353377bbe4a2d131dd34.jpg",
+    "index.html": "/index.html",
+    "static/media/resume.txt": "/static/media/resume.31d6cfe0d16ae931b73c.txt",
+    "main.d4a81e99.css.map": "/static/css/main.d4a81e99.css.map",
+    "main.76196bee.js.map": "/static/js/main.76196bee.js.map"
   },
   "entrypoints": [
     "static/css/main.d4a81e99.css",
-    "static/js/main.21b5a3a6.js"
+    "static/js/main.76196bee.js"
   ]
 }
