@@ -1,7 +1,7 @@
 import React from "react";
 import { useTheme } from "../../context/ThemeContext";
 import Typewriter from "typewriter-effect";
-import Resume from "../../assets/docs/resume.txt";
+import kiran__resume from "../../assets/docs/resume.txt";
 import { BsFillMoonStarsFill, BsFillSunFill } from "react-icons/bs";
 import "./Home.css";
 import Fade from "react-reveal/Fade";
@@ -29,10 +29,10 @@ const Home = () => {
               <Typewriter
                 options={{
                   strings: [
-                    "FullStack Developer!",
-                    "Mern Stack Developer!",
-                    "React  Developer!",
-                    "Backend Developer"
+                    "Electronics Communication and Information Engineer",
+                    "React Native Developer",
+                    "Mern Stack DeVeloper",
+                    
                   ],
                   autoStart: true,
                   loop: true,
@@ -50,7 +50,7 @@ const Home = () => {
               >
                 Hire Me
               </a>
-              <a className="btn btn-cv" href={Resume} download="your_name.pdf">
+              <a className="btn btn-cv" href={kiran__resume} download="your_name.pdf">
                 My Resume
               </a>
             </div>
