@@ -64,7 +64,7 @@ const WorkExp = () => {
               contentArrowStyle={{
                 borderRight: "7px solid  white",
               }}
-              date="20* - 20*"
+              date="2024 - 2025"
               iconStyle={{ background: "#1e1e2c", color: "#fff" }}
               icon={<SiReact />}
             >
@@ -72,7 +72,7 @@ const WorkExp = () => {
                 Frontend  Developer
               </h3>
               <h4 className="vertical-timeline-element-subtitle">
-                xyz, pvt ltd
+                  Quick Break, pvt ltd
               </h4>
               <p>
                 Creative Direction, User Experience, Visual Design, Project
