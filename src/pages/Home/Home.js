@@ -50,7 +50,7 @@ const Home = () => {
               >
                 Hire Me
               </a>
-              <a className="btn btn-cv" href={kiran__resume} download="your_name.pdf">
+              <a className="btn btn-cv" href={kiran__resume} download="kiran__resume.pdf">
                 My Resume
               </a>
             </div>
